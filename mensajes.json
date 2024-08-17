@@ -1,0 +1,20 @@
+{
+    "saludos": {
+        "1": "Hola",
+        "2": "¡Hola!",
+        "3": "¡Buenos días"
+    },
+
+    "frases de peliculas": {
+        "1": "Hasta la vista, baby...",
+        "2": "¡Mulán se ha ido!",
+        "3": "Wu gi bi fan..."
+    },
+
+    "horoscopo": {
+        "1": "Tauro",
+        "2": "Libra",
+        "3": "Cáncer",
+        "4": "Piscis"
+    }
+}
