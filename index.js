@@ -1,11 +1,10 @@
 const express = require('express');
 const app = express();
-const bodyParser = require('body-parser');
 const productRouter = require('./routes/messageRoute');
 require('dotenv').config();
 require('./config/database');
 
-app.use(bodyParser.json());
+app.use(express.json());
 app.use(productRouter);
 
 
